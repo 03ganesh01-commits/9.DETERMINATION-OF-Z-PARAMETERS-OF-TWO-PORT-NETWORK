@@ -53,7 +53,8 @@ e)	Switch ‘OFF’ the supply after taking thereadings.
 **Calculation**
 
 ![WhatsApp Image 2026-04-07 at 1 37 08 PM](https://github.com/user-attachments/assets/8137efbf-2ba5-4fdc-8568-1d3e49e45843)
-![Uploading image.png…]()
+<img width="899" height="1599" alt="image" src="https://github.com/user-attachments/assets/32160498-dbef-43ab-a721-5d79be0775f2" />
+
 
 **RESULT:**
 
